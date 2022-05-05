@@ -1,0 +1,8 @@
+# Cool time of newcomers until they can break blocks. (seconds)
+coolTime: 300
+
+message:
+  stillCoolTime: §cYou're still in cool time! §a%timeLeft%§c seconds left.
+  invalidArgument: §cInvalid argument!
+  invalidValue: §cInvalid value!
+  setSuccessfully: §cCool Time is set successfully as §a%coolTime%§c seconds!

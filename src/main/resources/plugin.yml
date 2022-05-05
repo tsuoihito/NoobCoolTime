@@ -1,0 +1,17 @@
+name: NoobCoolTime
+version: '${project.version}'
+main: com.github.tsuoihito.noobcooltime.NoobCoolTime
+api-version: 1.18
+authors: [ tsuoihito ]
+
+commands:
+  noobcooltime:
+    aliases: [ nct ]
+    description: Set cool time of newcomers
+    permission: noobcooltime.command
+
+permissions:
+  noobcooltime.command:
+    default: op
+  noobcooltime.bypass:
+    default: op
