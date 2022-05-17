@@ -14,3 +14,5 @@ A Minecraft plugin limiting newcomers' action
 ### Permissions
 - `noobcooltime.command` : Allows a player to use `/nct` command.
 - `noobcooltime.bypass` : Makes a player bypass the cool time.
+
+Made for [Project Moses](http://mcnimoses.net)
